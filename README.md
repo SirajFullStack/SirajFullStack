@@ -19,7 +19,7 @@ BSCS student at National University of Computer and Emerging Sciences (FAST-NUCE
 - Data Structures & Algorithms
 
 ## 📊 GitHub Stats
-![Siraj's GitHub stats](https://github.com/SirajFullStack)
+![Siraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirajFullStack&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/siraj-u-din-40431a324/?skipRedirect=true
