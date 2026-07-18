@@ -19,11 +19,11 @@ BSCS student at National University of Computer and Emerging Sciences (FAST-NUCE
 - Data Structures & Algorithms
 
 ## 📊 GitHub Stats
-![Siraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=siraj110786&show_icons=true&theme=radical)
+![Siraj's GitHub stats](https://github.com/SirajFullStack)
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/siraj-u-din-40431a324/?skipRedirect=true
+- 📧 Email: sirajudinrajper43@gmail.com
 
 ---
 ⭐️ Thanks for visiting my profile!
