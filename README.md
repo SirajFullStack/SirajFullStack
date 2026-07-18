@@ -22,7 +22,7 @@ BSCS student at National University of Computer and Emerging Sciences (FAST-NUCE
 [Siraj's GitHub stats](https://github.com/SirajFullStack)
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/siraj-u-din-40431a324/?skipRedirect=true
+- 💼 LinkedIn: https://www.linkedin.com/in/siraj-u-din-40431a324/
 - 📧 Email: sirajudinrajper43@gmail.com
 
 ---
