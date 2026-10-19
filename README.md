@@ -23,7 +23,7 @@ BSCS student at National University of Computer and Emerging Sciences (FAST-NUCE
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/siraj-u-din-40431a324/
-- 📧 Email: sirajudinrajper43@gmail.com
+- 📧 Email: sirajudin110s@gmail.com
 
 ---
 ⭐️ Thanks for visiting my profile!
